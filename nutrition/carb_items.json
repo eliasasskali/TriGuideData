@@ -3,34 +3,39 @@
     "id": "maurten-gel-100",
     "name": "Maurten Gel 100",
     "gramsOfCarbs": 25,
-    "type": "gel"
+    "type": "gel",
+    "brand": "maurten"
   },
   {
     "id": "maurten-gel-100-caf-100",
     "name": "Maurten Gel 100 Caf 100",
     "gramsOfCarbs": 25,
     "Caffeine": 100,
-    "type": "gel"
+    "type": "gel",
+    "brand": "maurten"
   },
   {
     "id": "maurten-gel-160",
     "name": "Maurten Gel 160",
     "gramsOfCarbs": 40,
-    "type": "gel"
+    "type": "gel",
+    "brand": "maurten"
   },
   {
     "id": "maurten-drink-mix-160",
     "name": "Maurten Drink Mix 160",
     "gramsOfCarbs": 40,
     "waterVolumeML": 500,
-    "type": "drink"
+    "type": "drink",
+    "brand": "maurten"
   },
   {
     "id": "maurten-drink-mix-320",
     "name": "Maurten Drink Mix 320",
     "gramsOfCarbs": 80,
     "waterVolumeML": 500,
-    "type": "drink"
+    "type": "drink",
+    "brand": "maurten"
   },
   {
     "id": "maurten-drink-mix-320-caf-100",
@@ -38,18 +43,21 @@
     "gramsOfCarbs": 80,
     "Caffeine": 100,
     "waterVolumeML": 500,
-    "type": "drink"
+    "type": "drink",
+    "brand": "maurten"
   },
   {
     "id": "maurten-solid-c-160",
     "name": "Maurten Solid C 160",
     "gramsOfCarbs": 40,
-    "type": "solid"
+    "type": "solid",
+    "brand": "maurten"
   },
   {
     "id": "maurten-solid-160",
     "name": "Maurten Solid 160",
     "gramsOfCarbs": 40,
-    "type": "solid"
+    "type": "solid",
+    "brand": "maurten"
   },
 ]
