@@ -60,11 +60,4 @@
     "type": "solid",
     "brand": "maurten"
   },
-  {
-    "id": "just-testing",
-    "name": "Test carbitem",
-    "gramsOfCarbs": 40,
-    "type": "solid",
-    "brand": "maurten"
-  },
 ]
