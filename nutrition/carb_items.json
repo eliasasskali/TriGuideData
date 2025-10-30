@@ -10,7 +10,7 @@
     "id": "maurten-gel-100-caf-100",
     "name": "Maurten Gel 100 Caf 100",
     "gramsOfCarbs": 25,
-    "Caffeine": 100,
+    "caffeine": 100,
     "type": "gel",
     "brand": "maurten"
   },
