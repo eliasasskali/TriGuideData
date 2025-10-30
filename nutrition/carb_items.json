@@ -41,7 +41,7 @@
     "id": "maurten-drink-mix-320-caf-100",
     "name": "Maurten Drink Mix 320 Caf 100",
     "gramsOfCarbs": 80,
-    "Caffeine": 100,
+    "caffeine": 100,
     "waterVolumeML": 500,
     "type": "drink",
     "brand": "maurten"
